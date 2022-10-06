@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Quickt {
+public class QuickSort {
 	public static void swap(int i, int j) {
 		int temp =i;
 		 i=j;
